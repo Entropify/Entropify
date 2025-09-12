@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with website and full stack developments
 - 📫 How to reach me: zyjerryj@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The fastest I've ever skied is 87 km/h
+- ⚡ Fun fact: The fastest I've ever skied is 87 km/h, that's faster than most city metros!
 
