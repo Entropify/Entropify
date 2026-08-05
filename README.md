@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! (General Kenobi, you are a bold one)👋
 
 
 - 🔭 I’m currently working on random RTL and embedded projects I find interesting but also help me learn new skills
