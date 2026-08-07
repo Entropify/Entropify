@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on any interesting ideas for hardware and embedded projects
 - 🤔 I’m looking for help with RTL design & verification, VLSI frontend & backend, FPGA implementation, embedded design, PCB design
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The fastest I've ever skied is 87 km/h, that's faster than city metros!
+- ⚡ Fun fact: The fastest I've ever skied is 87 km/h, that's faster than city metros (it also hurts a lot if you fall at that speed, I would know...)
 
